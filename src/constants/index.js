@@ -120,8 +120,8 @@ const techStackIcons = [
     rotation: [0, 0, 0],
   },
   {
-    name: "Python Developer",
-    modelPath: "/models/python-transformed.glb",
+    name: "Frontend Developer",
+    modelPath: "/models/html.glb",
     scale: 0.8,
     rotation: [0, 0, 0],
   },
@@ -179,8 +179,8 @@ const expCards = [
   {
     review:
       "NamNguyenDev demonstrated a strong eagerness to learn and quickly adapted to front-end development practices. His attention to detail and teamwork contributed positively to the project’s success.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
+    imgPath: "/images/logo3.webp",
+    logoPath: "/images/logo3.webp",
     title: "Front-End Developer Intern – FPT Software",
     date: "Jan 2022 - Jan 2023",
     responsibilities: [
